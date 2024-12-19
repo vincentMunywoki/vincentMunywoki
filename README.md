@@ -20,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vincent munywoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent munywoki" height="30" width="40" /></a>
-<a href="https://fb.com/vincent munywoki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vincent munywoki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vincent-munywoki-523a21252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent munywoki" height="30" width="40" /></a>
 <a href="https://dribbble.com/munywoki1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="munywoki1" height="30" width="40" /></a>
 <a href="https://medium.com/@vincentmunywoki12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vincentmunywoki12" height="30" width="40" /></a>
 </p>
