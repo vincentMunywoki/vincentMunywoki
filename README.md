@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vincent Munywoki</h1>
 <h3 align="center">A passionate junior software developer with a strong foundation in MERN stack development and cloud infrastructure. I am eager to solve real-world problems, continuously learn, and contribute to innovative tech solutions.</h3>
 
@@ -15,11 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vincentmunywoki12](https://medium.com/@vincentmunywoki12)
 
-- 💬 Ask me about **react, JS**
-
-- 📫 How to reach me **vincentmunywoki12@gmail.com**
-
-- 📄 Know about my experiences [https://vincent-seven.vercel.app/](https://vincent-seven.vercel.app/)
+-- 📫 How to reach me **vincentmunywoki12@gmail.com**
 
 - ⚡ Fun fact **I can spend hours coding or brainstorming tech ideas, but I still can't resist a good laugh from a classic meme**
 
