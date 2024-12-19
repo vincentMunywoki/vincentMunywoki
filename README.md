@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Munywoki</h1>
-<h3 align="center">A passionate junior software developer with a strong foundation in MERN stack development and cloud infrastructure. I am eager to solve real-world problems, continuously learn, and contribute to innovative tech solutions.</h3>
+<h3 align="center">A passionate junior software developer with a strong foundation in MERN stack development and cloud infrastructure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentmunywoki&label=Profile%20views&color=0e75b6&style=flat" alt="vincentmunywoki" /> </p>
 
@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **I can spend hours coding or brainstorming tech ideas, but I still can't resist a good laugh from a classic meme**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
