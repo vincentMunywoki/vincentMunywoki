@@ -13,7 +13,7 @@
 
 -- 📫 How to reach me **vincentmunywoki12@gmail.com**
 
-- ⚡ Fun fact **I can spend hours coding or brainstorming tech ideas, but I still can't resist a good laugh from a classic meme**
+- ⚡ Fun fact **I can spend hours coding or brainstorming tech ideas, but I still can't resist a good laugh from a classic meme.**
 
 
 <h3 align="left">Connect with me:</h3>
