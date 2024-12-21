@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quick doc Appointment system](https://github.com/vincentMunywoki/Doctor-appointment-booking-system)
 
-- 🌱 I’m currently learning **Restful API consumption and creation.**
+- 🌱 I’m currently learning **Restful API consumption and creation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vincentMunywoki](https://github.com/vincentMunywoki)
 
