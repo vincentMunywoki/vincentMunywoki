@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Munywoki</h1>
+
 <h4 align="center">A passionate junior software developer with good understanding of MERN stack development, Internet of things and cloud infrastructure.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentmunywoki&label=Profile%20views&color=0e75b6&style=flat" alt="vincentmunywoki" /> </p>
